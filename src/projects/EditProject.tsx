@@ -1,0 +1,1 @@
+export const EditProject = () => <h2>Edit Project</h2>;
